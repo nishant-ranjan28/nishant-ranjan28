@@ -12,6 +12,8 @@
 
 - ⚡ &nbsp;Fun fact ****
 
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=akhil-gautam&show_icons=true" alt="akhil-gautam" /> </p>
+
 <p align="center">
 <a href="https://dev.to/nishu_2811" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="akhilgautam" height="20" width="20" /></a>
 <a href="https://www.linkedin.com/in/n-ishant" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="akhil-gautam" height="20" width="20" /></a>
