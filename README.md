@@ -4,7 +4,7 @@
 
 - 🔭 &nbsp;I’m currently working on [React and Ruby on rails (Learning)]
 
-- 📝 &nbsp;I sometimes write articles on [ My Personal Blog](https://nishantranjan.in)
+- 📝 &nbsp;I sometimes write articles on [ My Personal Blog](https://master--nishant-ranjan-2811.netlify.app)
 
 - 💬 &nbsp;Ask me about **Javacript, Selenium, Cypress**
 
