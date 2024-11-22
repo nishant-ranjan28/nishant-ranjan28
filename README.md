@@ -2,7 +2,7 @@
 <h3 align="center">A QA Automation engineer from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nishant-ranjan28" alt="nishant-ranjan" /> </p>
 
-- 🔭 &nbsp;I’m currently working on [React and Ruby on rails (Learning)]
+- 🔭 &nbsp;I’m currently working on [React related projects using different css frameworks (Tailwind, Material UI). (Learning)]
 
 - 📝 &nbsp;I sometimes write articles on [ My Personal Blog](https://master--nishant-ranjan-2811.netlify.app)
 
