@@ -16,7 +16,7 @@
 
 <p align="center">
 <a href="https://dev.to/nishu_2811" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="akhilgautam" height="20" width="20" /></a>
-<a href="https://www.linkedin.com/in/n-ishant" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="akhil-gautam" height="20" width="20" /></a>
+<a href="https://www.linkedin.com/in/n-ishant" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="nishant-ranjan" height="20" width="20" /></a>
 <a href="https://stackoverflow.com/users/3584287/nishu2811" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="8063484" height="20" width="20" /></a>
 <a href="https://medium.com/@nishantranjan78" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@nishantranjan78" height="20" width="20" /></a>
 </p>
