@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nishant Ranjan</h1>
-<h3 align="center">A QA Automation engineer from India</h3>
+<h3 align="center">QA Automation engineer from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nishant-ranjan28" alt="nishant-ranjan" /> </p>
 
 - 🔭 &nbsp;I’m currently working on [React related projects using different css frameworks (Tailwind, Material UI). (Learning)]
