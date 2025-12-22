@@ -36,7 +36,7 @@
 
 💼 **9+ Years**
 
-🔭 Currently working on **[movie-search](https://github.com/nishant-ranjan28/movie-search)**
+🔭 Currently working on **[chatVerse](https://github.com/nishant-ranjan28/ChatVerse)**
 
 🌱 Currently learning **Playwright, AI/ML, Kubernetes, Advanced Testing Frameworks**
 
