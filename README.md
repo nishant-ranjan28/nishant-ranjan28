@@ -17,7 +17,7 @@
 
 Currently **Lead SDET at Rooster Technologies**, where I architect end-to-end automation across UI, API, BDD, accessibility, and load — and own the test infra on GCP Cloud Run. Past life: led Selenium → Cypress → Playwright modernization across multiple companies, and shipped 400+ commits driving WCAG 2.1 AA accessibility directly in production React.
 
-- 🔭 Building **[ChatVerse](https://github.com/nishant-ranjan28/ChatVerse)**, **[AI News Digest](https://github.com/nishant-ranjan28/AI-News-Digest)**, and **[SWOT Analyse](https://github.com/nishant-ranjan28/swot)**
+- 🔭 Building **[ChatVerse](https://chatVerse.live)**, **[AI News Digest](https://github.com/nishant-ranjan28/AI-News-Digest)**, and **[SWOT Analyse](https://github.com/nishant-ranjan28/swot)**
 - 🌱 Going deep on **AI-assisted testing, performance engineering, and dev productivity tooling**
 - ⚡ Fun fact: I love automating things and reading the markets
 
