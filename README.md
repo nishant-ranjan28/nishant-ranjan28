@@ -53,6 +53,8 @@ Currently **Lead SDET at Rooster Technologies**, where I architect end-to-end au
   <img src="https://github-profile-trophy.vercel.app/?username=nishant-ranjan28&theme=tokyonight&no-frame=true&column=7" />
 </p>
 
+![My GitHub skyline](https://raw.githubusercontent.com/nishant-ranjan28/nishant-ranjan28/output/skyline.svg)
+
 ---
 
 ### 🔗 Connect
