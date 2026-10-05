@@ -44,11 +44,6 @@ Currently **Lead SDET at Rooster Technologies**, where I architect end-to-end au
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=nishant-ranjan28&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishant-ranjan28&layout=compact&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=nishant-ranjan28&theme=radical&hide_border=true" />
 </p>
 
 ---
