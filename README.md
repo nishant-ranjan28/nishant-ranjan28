@@ -11,6 +11,10 @@
   <img src="https://komarev.com/ghpvc/?username=nishant-ranjan28&label=Profile%20views&color=0e75b6&style=for-the-badge" />
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nishant-ranjan28/nishant-ranjan28/output/skyline.svg" alt="My GitHub skyline" />
+</p>
+
 ---
 
 ### 🧭 About
@@ -25,43 +29,42 @@ Currently **Lead SDET at Rooster Technologies**, where I architect end-to-end au
 
 ### 🛠️ Stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,python,java,docker,gcp,git,github,vscode,tailwind,mongodb,postgres" />
-</p>
+**Languages & Frameworks**<br/>
+<img src="https://skillicons.dev/icons?i=ts,js,python,java,react,nodejs,tailwind" />
 
-**Testing & Quality**
-<p>
-  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cypress-17202C?style=flat&logo=cypress&logoColor=white" />
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white" />
-  <img src="https://img.shields.io/badge/K6-7D64FF?style=flat&logo=k6&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cucumber-23D96C?style=flat&logo=cucumber&logoColor=white" />
-  <img src="https://img.shields.io/badge/axe--core-663399?style=flat" />
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white" />
-</p>
+**Testing & Quality**<br/>
+<img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white" /> <img src="https://img.shields.io/badge/Cypress-17202C?style=flat&logo=cypress&logoColor=white" /> <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white" /> <img src="https://img.shields.io/badge/K6-7D64FF?style=flat&logo=k6&logoColor=white" /> <img src="https://img.shields.io/badge/Cucumber-23D96C?style=flat&logo=cucumber&logoColor=white" /> <img src="https://img.shields.io/badge/axe--core-663399?style=flat" />
+
+**Cloud & DevOps**<br/>
+<img src="https://skillicons.dev/icons?i=gcp,docker,git,github,githubactions,mongodb,postgres" />
 
 ---
 
 ### 📊 GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=nishant-ranjan28&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishant-ranjan28&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=nishant-ranjan28&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishant-ranjan28&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nishant-ranjan28&theme=tokyonight&no-frame=true&column=7" />
+  <img src="https://streak-stats.demolab.com/?user=nishant-ranjan28&theme=radical&hide_border=true" />
 </p>
 
-![My GitHub skyline](https://raw.githubusercontent.com/nishant-ranjan28/nishant-ranjan28/output/skyline.svg)
+---
+
+### 📰 Latest
+
+- 🗞️ **[AI News Digest](https://ai.iamnishant.in)** — my AI news newsletter, fresh issues in the archive
+- 📄 **[Resume & portfolio](https://resume.iamnishant.in)**
 
 ---
 
 ### 🔗 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/n-ishant/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/nishu_2811)
-[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/nishu_2811)
-[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@nishu2811)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/nishantranjan2811)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/imnishu)
+<p align="center">
+  <a href="https://www.linkedin.com/in/n-ishant/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://dev.to/nishu_2811"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" /></a>
+  <a href="https://hashnode.com/@nishu2811"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" /></a>
+  <a href="https://www.youtube.com/c/nishantranjan2811"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+</p>
