@@ -2,7 +2,11 @@ name: skyline
 
 on:
   schedule:
-    - cron: "17 3 * * *"
+    - cron: "7 */3 * * *"
+  push:
+    branches: [master]
+    paths:
+      - ".github/workflows/skyline.yml"
   workflow_dispatch:
 
 permissions:
