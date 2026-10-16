@@ -40,14 +40,6 @@ Currently **Lead SDET at Rooster Technologies**, where I architect end-to-end au
 
 ---
 
-### 📊 GitHub
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=nishant-ranjan28&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-</p>
-
----
-
 ### 📰 Latest
 
 - 🗞️ **[AI News Digest](https://ai.iamnishant.in)** — my AI news newsletter, fresh issues in the archive
