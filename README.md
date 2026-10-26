@@ -15,8 +15,6 @@
   <img src="https://raw.githubusercontent.com/nishant-ranjan28/nishant-ranjan28/output/skyline.svg" alt="My GitHub skyline" />
 </p>
 
----
-
 ### 🧭 About
 
 Currently **Lead SDET at Rooster Technologies**, where I architect end-to-end automation across UI, API, BDD, accessibility, and load — and own the test infra on GCP Cloud Run. Past life: led Selenium → Cypress → Playwright modernization across multiple companies, and shipped 400+ commits driving WCAG 2.1 AA accessibility directly in production React.
@@ -26,7 +24,10 @@ Currently **Lead SDET at Rooster Technologies**, where I architect end-to-end au
 - ⚡ Fun fact: I love automating things and reading the markets
 
 ---
+### Milestones
+[![XERJ Corpus Hub contributor](https://hub.xerj.org/contributors/nishant-ranjan28/badge.svg)](https://hub.xerj.org/contributors/nishant-ranjan28)
 
+---
 ### 🛠️ Stack
 
 **Languages & Frameworks**<br/>
